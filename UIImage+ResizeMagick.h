@@ -6,7 +6,7 @@
 //
 //
 
-
+#import <UIKit/UIImage.h>
 
 @interface UIImage (ResizeMagick)
 

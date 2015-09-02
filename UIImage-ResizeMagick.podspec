@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "UIImage-ResizeMagick"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Resizing UIImage on iOS. ImageMagick-style."
 
   s.description  = <<-DESC
